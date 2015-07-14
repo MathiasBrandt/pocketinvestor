@@ -1,0 +1,666 @@
+<FIXML>
+  <Order ClOrdID="475564" Side="2" TransactTm="2006-12-08T15:31:44-05:00" OrdTyp="2" Px="37" Acct="26522154">
+    <Hdr Snt="2006-12-08T15:31:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="249707" Side="2" TransactTm="2007-02-19T16:41:29-05:00" OrdTyp="2" Px="9" Acct="26522154">
+    <Hdr Snt="2007-02-19T16:41:29-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="552438" Side="2" TransactTm="2007-04-21T14:39:36-05:00" OrdTyp="2" Px="36" Acct="26522154">
+    <Hdr Snt="2007-04-21T14:39:36-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="97559" Side="2" TransactTm="2007-10-21T05:33:59-05:00" OrdTyp="2" Px="74" Acct="26522154">
+    <Hdr Snt="2007-10-21T05:33:59-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="426847" Side="2" TransactTm="2008-02-19T22:30:15-05:00" OrdTyp="2" Px="130" Acct="26522154">
+    <Hdr Snt="2008-02-19T22:30:15-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="798194" Side="2" TransactTm="2008-04-20T20:28:22-05:00" OrdTyp="2" Px="179" Acct="26522154">
+    <Hdr Snt="2008-04-20T20:28:22-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="811268" Side="2" TransactTm="2008-06-20T17:26:30-05:00" OrdTyp="2" Px="137" Acct="26522154">
+    <Hdr Snt="2008-06-20T17:26:30-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="590969" Side="2" TransactTm="2008-10-20T11:22:45-05:00" OrdTyp="2" Px="71" Acct="26522154">
+    <Hdr Snt="2008-10-20T11:22:45-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="920036" Side="2" TransactTm="2009-02-19T04:19:01-05:00" OrdTyp="2" Px="32" Acct="26522154">
+    <Hdr Snt="2009-02-19T04:19:01-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="451061" Side="2" TransactTm="2009-04-21T02:17:08-05:00" OrdTyp="2" Px="42" Acct="26522154">
+    <Hdr Snt="2009-04-21T02:17:08-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="339702" Side="2" TransactTm="2009-08-20T20:13:24-05:00" OrdTyp="2" Px="18" Acct="26522154">
+    <Hdr Snt="2009-08-20T20:13:24-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="934359" Side="2" TransactTm="2009-11-20T02:40:35-05:00" OrdTyp="2" Px="81" Acct="26522154">
+    <Hdr Snt="2009-11-20T02:40:35-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="474525" Side="2" TransactTm="2010-02-01T03:50:20-05:00" OrdTyp="2" Px="156" Acct="26522154">
+    <Hdr Snt="2010-02-01T03:50:20-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="58965" Side="2" TransactTm="2010-04-15T06:00:06-05:00" OrdTyp="2" Px="171" Acct="26522154">
+    <Hdr Snt="2010-04-15T06:00:06-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="177367" Side="2" TransactTm="2010-08-14T23:56:21-05:00" OrdTyp="2" Px="113" Acct="26522154">
+    <Hdr Snt="2010-08-14T23:56:21-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="40337" Side="2" TransactTm="2011-02-13T13:50:44-05:00" OrdTyp="2" Px="131" Acct="26522154">
+    <Hdr Snt="2011-02-13T13:50:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="678755" Side="2" TransactTm="2011-08-15T05:45:07-05:00" OrdTyp="2" Px="153" Acct="26522154">
+    <Hdr Snt="2011-08-15T05:45:07-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="EXTREME" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="425924" Side="2" TransactTm="2006-12-08T15:31:44-05:00" OrdTyp="2" Px="84" Acct="26522154">
+    <Hdr Snt="2006-12-08T15:31:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="541465" Side="2" TransactTm="2007-02-07T12:29:51-05:00" OrdTyp="2" Px="106" Acct="26522154">
+    <Hdr Snt="2007-02-07T12:29:51-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="655977" Side="2" TransactTm="2007-06-09T07:26:07-05:00" OrdTyp="2" Px="80" Acct="26522154">
+    <Hdr Snt="2007-06-09T07:26:07-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="459392" Side="2" TransactTm="2007-09-08T14:53:18-05:00" OrdTyp="2" Px="91" Acct="26522154">
+    <Hdr Snt="2007-09-08T14:53:18-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="131692" Side="2" TransactTm="2007-11-20T15:03:03-05:00" OrdTyp="2" Px="131" Acct="26522154">
+    <Hdr Snt="2007-11-20T15:03:03-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="498574" Side="2" TransactTm="2008-03-21T08:59:19-05:00" OrdTyp="2" Px="84" Acct="26522154">
+    <Hdr Snt="2008-03-21T08:59:19-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="256366" Side="2" TransactTm="2008-09-20T00:53:42-05:00" OrdTyp="2" Px="46" Acct="26522154">
+    <Hdr Snt="2008-09-20T00:53:42-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="974738" Side="2" TransactTm="2009-03-21T14:48:05-05:00" OrdTyp="2" Px="63" Acct="26522154">
+    <Hdr Snt="2009-03-21T14:48:05-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="503935" Side="2" TransactTm="2009-06-20T23:15:16-05:00" OrdTyp="2" Px="30" Acct="26522154">
+    <Hdr Snt="2009-06-20T23:15:16-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="350884" Side="2" TransactTm="2009-12-20T13:09:39-05:00" OrdTyp="2" Px="2" Acct="26522154">
+    <Hdr Snt="2009-12-20T13:09:39-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="286562" Side="2" TransactTm="2010-04-21T08:05:54-05:00" OrdTyp="2" Px="44" Acct="26522154">
+    <Hdr Snt="2010-04-21T08:05:54-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="293004" Side="2" TransactTm="2010-10-20T23:00:17-05:00" OrdTyp="2" Px="9" Acct="26522154">
+    <Hdr Snt="2010-10-20T23:00:17-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="610020" Side="2" TransactTm="2011-04-21T13:54:40-05:00" OrdTyp="2" Px="14" Acct="26522154">
+    <Hdr Snt="2011-04-21T13:54:40-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="377049" Side="2" TransactTm="2011-07-21T21:21:52-05:00" OrdTyp="2" Px="38" Acct="26522154">
+    <Hdr Snt="2011-07-21T21:21:52-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="410923" Side="2" TransactTm="2011-09-20T18:20:00-05:00" OrdTyp="2" Px="44" Acct="26522154">
+    <Hdr Snt="2011-09-20T18:20:00-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="408534" Side="2" TransactTm="2011-11-20T14:18:07-05:00" OrdTyp="2" Px="7" Acct="26522154">
+    <Hdr Snt="2011-11-20T14:18:07-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="HIGHRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="455810" Side="2" TransactTm="2006-12-08T15:31:44-05:00" OrdTyp="2" Px="62" Acct="26522154">
+    <Hdr Snt="2006-12-08T15:31:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="608440" Side="2" TransactTm="2007-03-09T22:58:55-05:00" OrdTyp="2" Px="78" Acct="26522154">
+    <Hdr Snt="2007-03-09T22:58:55-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="126426" Side="2" TransactTm="2007-05-22T01:08:40-05:00" OrdTyp="2" Px="100" Acct="26522154">
+    <Hdr Snt="2007-05-22T01:08:40-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="102483" Side="2" TransactTm="2007-08-03T02:18:25-05:00" OrdTyp="2" Px="121" Acct="26522154">
+    <Hdr Snt="2007-08-03T02:18:25-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="802032" Side="2" TransactTm="2008-02-01T16:12:48-05:00" OrdTyp="2" Px="141" Acct="26522154">
+    <Hdr Snt="2008-02-01T16:12:48-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="401620" Side="2" TransactTm="2008-04-14T18:22:34-05:00" OrdTyp="2" Px="150" Acct="26522154">
+    <Hdr Snt="2008-04-14T18:22:34-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="90053" Side="2" TransactTm="2008-08-14T12:18:49-05:00" OrdTyp="2" Px="145" Acct="26522154">
+    <Hdr Snt="2008-08-14T12:18:49-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="219754" Side="2" TransactTm="2008-10-26T12:28:34-05:00" OrdTyp="2" Px="163" Acct="26522154">
+    <Hdr Snt="2008-10-26T12:28:34-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="469323" Side="2" TransactTm="2009-02-25T06:24:49-05:00" OrdTyp="2" Px="158" Acct="26522154">
+    <Hdr Snt="2009-02-25T06:24:49-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="387507" Side="2" TransactTm="2009-06-27T01:21:05-05:00" OrdTyp="2" Px="153" Acct="26522154">
+    <Hdr Snt="2009-06-27T01:21:05-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="63112" Side="2" TransactTm="2009-10-26T18:17:20-05:00" OrdTyp="2" Px="177" Acct="26522154">
+    <Hdr Snt="2009-10-26T18:17:20-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="981893" Side="2" TransactTm="2010-01-07T19:27:05-05:00" OrdTyp="2" Px="159" Acct="26522154">
+    <Hdr Snt="2010-01-07T19:27:05-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="47156" Side="2" TransactTm="2010-04-09T03:54:17-05:00" OrdTyp="2" Px="148" Acct="26522154">
+    <Hdr Snt="2010-04-09T03:54:17-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="77979" Side="2" TransactTm="2010-08-08T21:50:32-05:00" OrdTyp="2" Px="170" Acct="26522154">
+    <Hdr Snt="2010-08-08T21:50:32-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="622084" Side="2" TransactTm="2010-11-08T04:17:44-05:00" OrdTyp="2" Px="189" Acct="26522154">
+    <Hdr Snt="2010-11-08T04:17:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="123629" Side="2" TransactTm="2011-01-20T05:27:29-05:00" OrdTyp="2" Px="164" Acct="26522154">
+    <Hdr Snt="2011-01-20T05:27:29-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="433561" Side="2" TransactTm="2011-04-21T13:54:40-05:00" OrdTyp="2" Px="149" Acct="26522154">
+    <Hdr Snt="2011-04-21T13:54:40-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="251440" Side="2" TransactTm="2011-10-21T04:49:03-05:00" OrdTyp="2" Px="132" Acct="26522154">
+    <Hdr Snt="2011-10-21T04:49:03-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="MIDRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="576298" Side="2" TransactTm="2006-12-08T15:31:44-05:00" OrdTyp="2" Px="86" Acct="26522154">
+    <Hdr Snt="2006-12-08T15:31:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="895816" Side="2" TransactTm="2007-06-09T07:26:07-05:00" OrdTyp="2" Px="75" Acct="26522154">
+    <Hdr Snt="2007-06-09T07:26:07-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="678521" Side="2" TransactTm="2007-12-08T21:20:30-05:00" OrdTyp="2" Px="63" Acct="26522154">
+    <Hdr Snt="2007-12-08T21:20:30-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="995947" Side="2" TransactTm="2008-04-08T16:16:45-05:00" OrdTyp="2" Px="76" Acct="26522154">
+    <Hdr Snt="2008-04-08T16:16:45-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="909947" Side="2" TransactTm="2008-06-20T17:26:30-05:00" OrdTyp="2" Px="81" Acct="26522154">
+    <Hdr Snt="2008-06-20T17:26:30-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="957807" Side="2" TransactTm="2008-08-20T14:24:38-05:00" OrdTyp="2" Px="94" Acct="26522154">
+    <Hdr Snt="2008-08-20T14:24:38-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="440463" Side="2" TransactTm="2008-11-01T14:34:23-05:00" OrdTyp="2" Px="101" Acct="26522154">
+    <Hdr Snt="2008-11-01T14:34:23-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="4221" Side="2" TransactTm="2009-01-31T22:01:34-05:00" OrdTyp="2" Px="105" Acct="26522154">
+    <Hdr Snt="2009-01-31T22:01:34-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="852498" Side="2" TransactTm="2009-06-02T16:57:50-05:00" OrdTyp="2" Px="103" Acct="26522154">
+    <Hdr Snt="2009-06-02T16:57:50-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="818964" Side="2" TransactTm="2009-12-02T06:52:13-05:00" OrdTyp="2" Px="105" Acct="26522154">
+    <Hdr Snt="2009-12-02T06:52:13-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="261546" Side="2" TransactTm="2010-06-02T22:46:36-05:00" OrdTyp="2" Px="112" Acct="26522154">
+    <Hdr Snt="2010-06-02T22:46:36-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="918259" Side="2" TransactTm="2010-08-14T23:56:21-05:00" OrdTyp="2" Px="113" Acct="26522154">
+    <Hdr Snt="2010-08-14T23:56:21-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="394028" Side="2" TransactTm="2011-02-13T13:50:44-05:00" OrdTyp="2" Px="121" Acct="26522154">
+    <Hdr Snt="2011-02-13T13:50:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="18971" Side="2" TransactTm="2011-08-15T05:45:07-05:00" OrdTyp="2" Px="128" Acct="26522154">
+    <Hdr Snt="2011-08-15T05:45:07-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="622749" Side="2" TransactTm="2011-10-27T06:54:52-05:00" OrdTyp="2" Px="138" Acct="26522154">
+    <Hdr Snt="2011-10-27T06:54:52-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="LOWRISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="582567" Side="2" TransactTm="2006-12-08T15:31:44-05:00" OrdTyp="2" Px="56" Acct="26522154">
+    <Hdr Snt="2006-12-08T15:31:44-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="699472" Side="2" TransactTm="2007-04-09T10:27:59-05:00" OrdTyp="2" Px="61" Acct="26522154">
+    <Hdr Snt="2007-04-09T10:27:59-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="247229" Side="2" TransactTm="2007-08-09T04:24:14-05:00" OrdTyp="2" Px="53" Acct="26522154">
+    <Hdr Snt="2007-08-09T04:24:14-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="954769" Side="2" TransactTm="2007-11-08T10:51:26-05:00" OrdTyp="2" Px="50" Acct="26522154">
+    <Hdr Snt="2007-11-08T10:51:26-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="113220" Side="2" TransactTm="2008-02-07T18:18:37-05:00" OrdTyp="2" Px="46" Acct="26522154">
+    <Hdr Snt="2008-02-07T18:18:37-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="519984" Side="2" TransactTm="2008-04-20T20:28:22-05:00" OrdTyp="2" Px="45" Acct="26522154">
+    <Hdr Snt="2008-04-20T20:28:22-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="96772" Side="2" TransactTm="2008-07-21T03:55:34-05:00" OrdTyp="2" Px="51" Acct="26522154">
+    <Hdr Snt="2008-07-21T03:55:34-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="19592" Side="2" TransactTm="2008-11-19T20:51:49-05:00" OrdTyp="2" Px="43" Acct="26522154">
+    <Hdr Snt="2008-11-19T20:51:49-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="706842" Side="2" TransactTm="2009-03-21T14:48:05-05:00" OrdTyp="2" Px="45" Acct="26522154">
+    <Hdr Snt="2009-03-21T14:48:05-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="540430" Side="2" TransactTm="2009-06-02T16:57:50-05:00" OrdTyp="2" Px="52" Acct="26522154">
+    <Hdr Snt="2009-06-02T16:57:50-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="967364" Side="2" TransactTm="2009-10-02T10:54:05-05:00" OrdTyp="2" Px="53" Acct="26522154">
+    <Hdr Snt="2009-10-02T10:54:05-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="320992" Side="2" TransactTm="2010-02-01T03:50:20-05:00" OrdTyp="2" Px="59" Acct="26522154">
+    <Hdr Snt="2010-02-01T03:50:20-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="222569" Side="2" TransactTm="2010-04-15T06:00:06-05:00" OrdTyp="2" Px="66" Acct="26522154">
+    <Hdr Snt="2010-04-15T06:00:06-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="660702" Side="2" TransactTm="2010-08-14T23:56:21-05:00" OrdTyp="2" Px="69" Acct="26522154">
+    <Hdr Snt="2010-08-14T23:56:21-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="522945" Side="2" TransactTm="2010-10-14T20:54:29-05:00" OrdTyp="2" Px="68" Acct="26522154">
+    <Hdr Snt="2010-10-14T20:54:29-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="585864" Side="2" TransactTm="2011-04-15T11:48:52-05:00" OrdTyp="2" Px="64" Acct="26522154">
+    <Hdr Snt="2011-04-15T11:48:52-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+  <Order ClOrdID="282612" Side="2" TransactTm="2011-10-15T02:43:15-05:00" OrdTyp="2" Px="72" Acct="26522154">
+    <Hdr Snt="2011-10-15T02:43:15-05:00" PosDup="N" PosRsnd="N" SeqNum="521">
+      <Sndr ID="AFUNDMGR" />
+      <Tgt ID="ABROKER" />
+    </Hdr>
+    <Instrmt Sym="NORISK" ID="459200101" IDSrc="1" />
+    <OrdQty Qty="1" />
+  </Order>
+</FIXML>

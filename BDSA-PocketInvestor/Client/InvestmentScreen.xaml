@@ -1,0 +1,93 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Client.InvestmentScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True"
+    BackKeyPress="BackButtonClick">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,10">
+            <TextBlock x:Name="PageTitle" Text="Investments" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="0,120,0,12" Grid.RowSpan="2">
+            <Border Height="Auto" HorizontalAlignment="Left" x:Name="border_investmentGroups" VerticalAlignment="Top" Width="480">
+                <!-- Animations -->
+                <Border.Resources>
+                    <Storyboard x:Name="anim_showGroup">
+                        <ObjectAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetProperty="(UIElement.Visibility)">
+                            <DiscreteObjectKeyFrame KeyTime="00:00:00">
+                                <DiscreteObjectKeyFrame.Value>
+                                    <Visibility>Visible</Visibility>
+                                </DiscreteObjectKeyFrame.Value>
+                            </DiscreteObjectKeyFrame>
+                        </ObjectAnimationUsingKeyFrames>
+                        <DoubleAnimation Storyboard.TargetProperty="Height" To="200" From="0" Duration="00:00:00.125"/>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" To="1.0" From="0" BeginTime="00:00:00.125" Duration="00:00:00.125"/>
+                    </Storyboard>
+                    <Storyboard x:Name="anim_hideGroup">
+                        <DoubleAnimation Storyboard.TargetProperty="Height" To="0" From="200" BeginTime="00:00:00.125" Duration="00:00:00.125"/>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" To="0.0" From="1.0" Duration="00:00:00.125"/>
+                        <ObjectAnimationUsingKeyFrames BeginTime="00:00:00.250" Storyboard.TargetProperty="(UIElement.Visibility)">
+                            <DiscreteObjectKeyFrame KeyTime="00:00:00">
+                                <DiscreteObjectKeyFrame.Value>
+                                    <Visibility>Collapsed</Visibility>
+                                </DiscreteObjectKeyFrame.Value>
+                            </DiscreteObjectKeyFrame>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+
+                    <BitmapImage x:Name="img_arrow" UriSource="/Client;component/arrow.png" />
+                    <BitmapImage x:Name="img_arrowExpand" UriSource="/Client;component/arrow-expand.png" />
+                    <BitmapImage x:Name="img_arrowCollapse" UriSource="/Client;component/arrow-collapse.png" />
+                </Border.Resources>
+                
+                <!-- Content -->
+                <!-- Content container -->
+                <StackPanel Height="Auto" Width="Auto">
+                    <ScrollViewer Margin="5,5,5,5" Height="510" Name="scrollViewer1" Width="480" HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+                        <!-- Outer stackPanel containing dynamically generated content -->
+                        <StackPanel x:Name="outerPanel" Height="Auto" Width="470" Margin="0,0,0,0" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" />
+                    </ScrollViewer>
+                    <!-- Lower panel containing Logout, reset and submit buttons-->
+                    <StackPanel x:Name="controlPanelContainer" Height="Auto" Width="470" Orientation="Vertical" HorizontalAlignment="Center">
+                        <StackPanel x:Name="topControlPanel" Margin="11.5, 0, 0, 0">
+                            <TextBlock x:Name="text_dataIsSynced" Text=" "/>
+                            <TextBlock x:Name="text_sumOfAllSliders" Text=" "/>
+                        </StackPanel>
+                        <StackPanel x:Name="bottomControlPanel" Orientation="Horizontal">
+                            <!-- Left side buttons -->
+                            <StackPanel Width="Auto" Height="Auto" Orientation="Horizontal" HorizontalAlignment="Right">
+                                <Button x:Name="logoutButton" Width="Auto" Height="72" Content="Logout" HorizontalAlignment="Left" Click="LogoutButtonClick" />
+                                <Button x:Name="resetButton" Width="Auto" Height="72" Content="Reset" HorizontalAlignment="Left" Click="ResetButtonClick" Hold="ResetButtonHold" />
+                            </StackPanel>
+                            <!-- spacing panel -->
+                            <StackPanel Width="90"/>
+                            <!-- Right side buttons -->
+                            <StackPanel Width="Auto" Height="Auto" Orientation="Horizontal" HorizontalAlignment="Right">
+                                <Button x:Name="submitButton" Width="Auto" Height="72" Content="Submit" Click="SubmitButtonClick" IsEnabled="False" />
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</phone:PhoneApplicationPage>
